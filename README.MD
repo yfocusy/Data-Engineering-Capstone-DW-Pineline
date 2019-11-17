@@ -196,4 +196,9 @@ airline_company_lookup.csv |Use Spark to clean data, transform and save it into 
 > Storing data efficiently is critical for performance. Efficient data storage in Redshift allows for faster scanning. It also results in more efficient IO, which is paramount when working with large datasets.
 
 
+#### Step 6: Technologies Summary
+
+##### 1. Apache Airflow
+##### 2. AWS - Redshift
+##### 3. AWS - S3
 

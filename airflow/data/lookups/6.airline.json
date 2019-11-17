@@ -1,0 +1,291 @@
+{"airline_name":"Adria Airways","iata_designator":"JP","digit_code":"165","icao_designator":"ADR","country_or_territory":"Slovenia"}
+{"airline_name":"Aegean Airlines","iata_designator":"A3","digit_code":"390","icao_designator":"AEE","country_or_territory":"Greece"}
+{"airline_name":"Aer Lingus","iata_designator":"EI","digit_code":"053","icao_designator":"EIN","country_or_territory":"Ireland"}
+{"airline_name":"Aero Republica","iata_designator":"P5","digit_code":"845","icao_designator":"RPB","country_or_territory":"Colombia"}
+{"airline_name":"Aeroflot","iata_designator":"SU","digit_code":"555","icao_designator":"AFL","country_or_territory":"Russian Federation"}
+{"airline_name":"Aerolineas Argentinas","iata_designator":"AR","digit_code":"044","icao_designator":"ARG","country_or_territory":"Argentina"}
+{"airline_name":"Aeromexico","iata_designator":"AM","digit_code":"139","icao_designator":"AMX","country_or_territory":"Mexico"}
+{"airline_name":"Africa World Airlines","iata_designator":"AW","digit_code":"394","icao_designator":"AFW","country_or_territory":"Ghana"}
+{"airline_name":"Aigle Azur","iata_designator":"ZI","digit_code":"439","icao_designator":"AAF","country_or_territory":"France"}
+{"airline_name":"Air Algérie","iata_designator":"AH","digit_code":"124","icao_designator":"DAH","country_or_territory":"Algeria"}
+{"airline_name":"Air Arabia","iata_designator":"G9","digit_code":"514","icao_designator":"ABY","country_or_territory":"United Arab Emirates"}
+{"airline_name":"Air Astana","iata_designator":"KC","digit_code":"465","icao_designator":"KZR","country_or_territory":"Kazakhstan"}
+{"airline_name":"Air Austral","iata_designator":"UU","digit_code":"760","icao_designator":"REU","country_or_territory":"Réunion"}
+{"airline_name":"Air Baltic","iata_designator":"BT","digit_code":"657","icao_designator":"BTI","country_or_territory":"Latvia"}
+{"airline_name":"Air Botswana","iata_designator":"BP","digit_code":"636","icao_designator":"BOT","country_or_territory":"Botswana"}
+{"airline_name":"Air Burkina","iata_designator":"2J","digit_code":"226","icao_designator":"VBW","country_or_territory":"Burkina Faso"}
+{"airline_name":"Air Cairo","iata_designator":"SM","digit_code":"381","icao_designator":"MSC","country_or_territory":"Egypt"}
+{"airline_name":"Air Caledonie","iata_designator":"TY","digit_code":"190","icao_designator":"TPC","country_or_territory":"New Caledonia"}
+{"airline_name":"Air Canada","iata_designator":"AC","digit_code":"014","icao_designator":"ACA","country_or_territory":"Canada"}
+{"airline_name":"Air Caraibes","iata_designator":"TX","digit_code":"427","icao_designator":"FWI","country_or_territory":"Guadeloupe"}
+{"airline_name":"Air China","iata_designator":"CA","digit_code":"999","icao_designator":"CCA","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Air Corsica","iata_designator":"XK","digit_code":"146","icao_designator":"CCM","country_or_territory":"France"}
+{"airline_name":"Air Dolomiti","iata_designator":"EN","digit_code":"101","icao_designator":"DLA","country_or_territory":"Italy"}
+{"airline_name":"Air Europa","iata_designator":"UX","digit_code":"996","icao_designator":"AEA","country_or_territory":"Spain"}
+{"airline_name":"Air France","iata_designator":"AF","digit_code":"057","icao_designator":"AFR","country_or_territory":"France"}
+{"airline_name":"Air Guilin","iata_designator":"GT","digit_code":"730","icao_designator":"CGH","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Air India","iata_designator":"AI","digit_code":"098","icao_designator":"AIC","country_or_territory":"India"}
+{"airline_name":"Air Italy","iata_designator":"IG","digit_code":"191","icao_designator":"ISS","country_or_territory":"Italy"}
+{"airline_name":"Air Koryo","iata_designator":"JS","digit_code":"120","icao_designator":"KOR","country_or_territory":"Korea"}
+{"airline_name":"Air Macau","iata_designator":"NX","digit_code":"675","icao_designator":"AMU","country_or_territory":"Macao SAR"}
+{"airline_name":"Air Madagascar","iata_designator":"MD","digit_code":"258","icao_designator":"MDG","country_or_territory":"Madagascar"}
+{"airline_name":"Air Malta","iata_designator":"KM","digit_code":"643","icao_designator":"AMC","country_or_territory":"Malta"}
+{"airline_name":"Air Mauritius","iata_designator":"MK","digit_code":"239","icao_designator":"MAU","country_or_territory":"Mauritius"}
+{"airline_name":"Air Moldova","iata_designator":"9U","digit_code":"572","icao_designator":"MLD","country_or_territory":"Moldova"}
+{"airline_name":"Air Namibia","iata_designator":"SW","digit_code":"186","icao_designator":"NMB","country_or_territory":"Namibia"}
+{"airline_name":"Air New Zealand","iata_designator":"NZ","digit_code":"086","icao_designator":"ANZ","country_or_territory":"New Zealand"}
+{"airline_name":"Air Niugini","iata_designator":"PX","digit_code":"656","icao_designator":"ANG","country_or_territory":"Independent State of Papua New Guinea"}
+{"airline_name":"Air Nostrum","iata_designator":"YW","digit_code":"694","icao_designator":"ANE","country_or_territory":"Spain"}
+{"airline_name":"Air Peace","iata_designator":"P4","digit_code":"710","icao_designator":"APK","country_or_territory":"Nigeria"}
+{"airline_name":"Air Serbia","iata_designator":"JU","digit_code":"115","icao_designator":"ASL","country_or_territory":"Serbia"}
+{"airline_name":"Air Seychelles","iata_designator":"HM","digit_code":"061","icao_designator":"SEY","country_or_territory":"Seychelles"}
+{"airline_name":"Air Tahiti","iata_designator":"VT","digit_code":"135","icao_designator":"VTA","country_or_territory":"French Polynesia"}
+{"airline_name":"Air Tahiti Nui","iata_designator":"TN","digit_code":"244","icao_designator":"THT","country_or_territory":"French Polynesia"}
+{"airline_name":"Air Transat","iata_designator":"TS","digit_code":"649","icao_designator":"TSC","country_or_territory":"Canada"}
+{"airline_name":"Air Vanuatu","iata_designator":"NF","digit_code":"218","icao_designator":"AVN","country_or_territory":"Vanuatu"}
+{"airline_name":"AirBridgeCargo Airlines","iata_designator":"RU","digit_code":"580","icao_designator":"ABW","country_or_territory":"Russian Federation"}
+{"airline_name":"Aircalin","iata_designator":"SB","digit_code":"063","icao_designator":"ACI","country_or_territory":"New Caledonia"}
+{"airline_name":"Airlink","iata_designator":"4Z","digit_code":"749","icao_designator":"LNK","country_or_territory":"South Africa"}
+{"airline_name":"Alaska Airlines","iata_designator":"AS","digit_code":"027","icao_designator":"ASA","country_or_territory":"United States"}
+{"airline_name":"Albastar","iata_designator":"AP","digit_code":"374","icao_designator":"LAV","country_or_territory":"Spain"}
+{"airline_name":"Alitalia","iata_designator":"AZ","digit_code":"055","icao_designator":"AZA","country_or_territory":"Italy"}
+{"airline_name":"Allied Air","iata_designator":"4W","digit_code":"574","icao_designator":"AJK","country_or_territory":"Nigeria"}
+{"airline_name":"AlMasria Universal Airlines","iata_designator":"UJ","digit_code":"110","icao_designator":"LMU","country_or_territory":"Egypt"}
+{"airline_name":"American Airlines","iata_designator":"AA","digit_code":"001","icao_designator":"AAL","country_or_territory":"United States"}
+{"airline_name":"ANA","iata_designator":"NH","digit_code":"205","icao_designator":"ANA","country_or_territory":"Japan"}
+{"airline_name":"Arik Air","iata_designator":"W3","digit_code":"725","icao_designator":"ARA","country_or_territory":"Nigeria"}
+{"airline_name":"Arkia Israeli Airlines","iata_designator":"IZ","digit_code":"238","icao_designator":"AIZ","country_or_territory":"Israel"}
+{"airline_name":"Asiana Airlines","iata_designator":"OZ","digit_code":"988","icao_designator":"AAR","country_or_territory":"Korea"}
+{"airline_name":"Atlantic Airways","iata_designator":"RC","digit_code":"767","icao_designator":"FLI","country_or_territory":"Faroe Islands"}
+{"airline_name":"Atlas Air","iata_designator":"5Y","digit_code":"369","icao_designator":"GTI","country_or_territory":"United States"}
+{"airline_name":"AtlasGlobal","iata_designator":"KK","digit_code":"610","icao_designator":"KKK","country_or_territory":"Turkey"}
+{"airline_name":"Austral","iata_designator":"AU","digit_code":"143","icao_designator":"AUT","country_or_territory":"Argentina"}
+{"airline_name":"Austrian","iata_designator":"OS","digit_code":"257","icao_designator":"AUA","country_or_territory":"Austria"}
+{"airline_name":"Avianca","iata_designator":"AV","digit_code":"134","icao_designator":"AVA","country_or_territory":"Colombia"}
+{"airline_name":"Avianca Costa Rica","iata_designator":"LR","digit_code":"133","icao_designator":"LRC","country_or_territory":"Costa Rica"}
+{"airline_name":"Avianca Ecuador","iata_designator":"2K","digit_code":"547","icao_designator":"GLG","country_or_territory":"Ecuador"}
+{"airline_name":"Avianca Peru","iata_designator":"T0","digit_code":"530","icao_designator":"TPU","country_or_territory":"Peru"}
+{"airline_name":"Azerbaijan Airlines","iata_designator":"J2","digit_code":"771","icao_designator":"AHY","country_or_territory":"Azerbaijan"}
+{"airline_name":"Azores Airlines","iata_designator":"S4","digit_code":"331","icao_designator":"RZO","country_or_territory":"Portugal"}
+{"airline_name":"Azul Brazilian Airlines","iata_designator":"AD","digit_code":"577","icao_designator":"AZU","country_or_territory":"Brazil"}
+{"airline_name":"Bahamasair","iata_designator":"UP","digit_code":"111","icao_designator":"BHS","country_or_territory":"Bahamas"}
+{"airline_name":"Bangkok Airways","iata_designator":"PG","digit_code":"829","icao_designator":"BKP","country_or_territory":"Thailand"}
+{"airline_name":"Batik Air","iata_designator":"ID","digit_code":"938","icao_designator":"BTK","country_or_territory":"Indonesia"}
+{"airline_name":"Belavia Belarusian Airlines","iata_designator":"B2","digit_code":"628","icao_designator":"BRU","country_or_territory":"Belarus"}
+{"airline_name":"Biman Bangladesh Airlines","iata_designator":"BG","digit_code":"997","icao_designator":"BBC","country_or_territory":"Bangladesh"}
+{"airline_name":"Binter Canarias","iata_designator":"NT","digit_code":"474","icao_designator":"IBB","country_or_territory":"Spain"}
+{"airline_name":"Blue Air","iata_designator":"0B","digit_code":"475","icao_designator":"BMS","country_or_territory":"Romania"}
+{"airline_name":"Blue Panorama","iata_designator":"BV","digit_code":"004","icao_designator":"BPA","country_or_territory":"Italy"}
+{"airline_name":"BoA Boliviana de Aviacion","iata_designator":"OB","digit_code":"930","icao_designator":"BOV","country_or_territory":"Bolivia"}
+{"airline_name":"Braathens Regional Aviation","iata_designator":"TF","digit_code":"276","icao_designator":"SCW","country_or_territory":"Sweden"}
+{"airline_name":"British Airways","iata_designator":"BA","digit_code":"125","icao_designator":"BAW","country_or_territory":"United Kingdom"}
+{"airline_name":"Brussels Airlines","iata_designator":"SN","digit_code":"082","icao_designator":"BEL","country_or_territory":"Belgium"}
+{"airline_name":"Bulgaria Air","iata_designator":"FB","digit_code":"623","icao_designator":"LZB","country_or_territory":"Bulgaria"}
+{"airline_name":"CAL Cargo Airlines","iata_designator":"5C","digit_code":"700","icao_designator":"ICL","country_or_territory":"Israel"}
+{"airline_name":"Camair-Co","iata_designator":"QC","digit_code":"040","icao_designator":"CRC","country_or_territory":"Cameroon"}
+{"airline_name":"Cambodia Angkor Air","iata_designator":"K6","digit_code":"188","icao_designator":"KHV","country_or_territory":"Cambodia"}
+{"airline_name":"Capital Airlines","iata_designator":"JD","digit_code":"898","icao_designator":"CBJ","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Cargojet Airways","iata_designator":"W8","digit_code":"489","icao_designator":"CJT","country_or_territory":"Canada"}
+{"airline_name":"Cargolux","iata_designator":"CV","digit_code":"172","icao_designator":"CLX","country_or_territory":"Luxembourg"}
+{"airline_name":"Caribbean Airlines","iata_designator":"BW","digit_code":"106","icao_designator":"BWA","country_or_territory":"Trinidad and Tobago"}
+{"airline_name":"Carpatair","iata_designator":"V3","digit_code":"021","icao_designator":"KRP","country_or_territory":"Romania"}
+{"airline_name":"Cathay Dragon","iata_designator":"KA","digit_code":"043","icao_designator":"HDA","country_or_territory":"Hong Kong SAR"}
+{"airline_name":"Cathay Pacific","iata_designator":"CX","digit_code":"160","icao_designator":"CPA","country_or_territory":"Hong Kong SAR"}
+{"airline_name":"Cayman Airways","iata_designator":"KX","digit_code":"378","icao_designator":"CAY","country_or_territory":"Cayman Islands"}
+{"airline_name":"China Airlines","iata_designator":"CI","digit_code":"297","icao_designator":"CAL","country_or_territory":"Chinese Taipei"}
+{"airline_name":"China Cargo Airlines","iata_designator":"CK","digit_code":"112","icao_designator":"CKK","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"China Eastern","iata_designator":"MU","digit_code":"781","icao_designator":"CES","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"China Express Airlines","iata_designator":"G5","digit_code":"987","icao_designator":"HXA","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"China Postal Airlines","iata_designator":"CF","digit_code":"804","icao_designator":"CYZ","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"China Southern Airlines","iata_designator":"CZ","digit_code":"784","icao_designator":"CSN","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"CityJet","iata_designator":"WX","digit_code":"689","icao_designator":"BCY","country_or_territory":"Ireland"}
+{"airline_name":"Comair","iata_designator":"MN","digit_code":"161","icao_designator":"CAW","country_or_territory":"South Africa"}
+{"airline_name":"Condor","iata_designator":"DE","digit_code":"881","icao_designator":"CFG","country_or_territory":"Germany"}
+{"airline_name":"Congo Airways","iata_designator":"8Z","digit_code":"582","icao_designator":"CGA","country_or_territory":"Congo"}
+{"airline_name":"COPA Airlines","iata_designator":"CM","digit_code":"230","icao_designator":"CMP","country_or_territory":"Panama"}
+{"airline_name":"Corendon Airlines","iata_designator":"XC","digit_code":"395","icao_designator":"CAI","country_or_territory":"Turkey"}
+{"airline_name":"Corsair International","iata_designator":"SS","digit_code":"923","icao_designator":"CRL","country_or_territory":"France"}
+{"airline_name":"Croatia Airlines","iata_designator":"OU","digit_code":"831","icao_designator":"CTN","country_or_territory":"Croatia"}
+{"airline_name":"Cubana","iata_designator":"CU","digit_code":"136","icao_designator":"CUB","country_or_territory":"Cuba"}
+{"airline_name":"Cyprus Airways","iata_designator":"CY","digit_code":"078","icao_designator":"CYP","country_or_territory":"Cyprus"}
+{"airline_name":"Czech Airlines","iata_designator":"OK","digit_code":"064","icao_designator":"CSA","country_or_territory":"Czech Republic"}
+{"airline_name":"Delta Air Lines","iata_designator":"DL","digit_code":"006","icao_designator":"DAL","country_or_territory":"United States"}
+{"airline_name":"DHL Air","iata_designator":"D0","digit_code":"936","icao_designator":"DHK","country_or_territory":"United Kingdom"}
+{"airline_name":"DHL Aviation","iata_designator":"ES*","digit_code":"155","icao_designator":"DHX","country_or_territory":"Bahrain"}
+{"airline_name":"Eastar Jet","iata_designator":"ZE","digit_code":"839","icao_designator":"ESR","country_or_territory":"Korea"}
+{"airline_name":"Egyptair","iata_designator":"MS","digit_code":"077","icao_designator":"MSR","country_or_territory":"Egypt"}
+{"airline_name":"EL AL","iata_designator":"LY","digit_code":"114","icao_designator":"ELY","country_or_territory":"Israel"}
+{"airline_name":"Emirates","iata_designator":"EK","digit_code":"176","icao_designator":"UAE","country_or_territory":"United Arab Emirates"}
+{"airline_name":"Ethiopian Airlines","iata_designator":"ET","digit_code":"071","icao_designator":"ETH","country_or_territory":"Ethiopia"}
+{"airline_name":"Etihad Airways","iata_designator":"EY","digit_code":"607","icao_designator":"ETD","country_or_territory":"United Arab Emirates"}
+{"airline_name":"EuroAtlantic Airways","iata_designator":"YU","digit_code":"551","icao_designator":"MMZ","country_or_territory":"Portugal"}
+{"airline_name":"European Air Transport","iata_designator":"QY","digit_code":"615","icao_designator":"BCS","country_or_territory":"Germany"}
+{"airline_name":"Eurowings","iata_designator":"EW","digit_code":"104","icao_designator":"EWG","country_or_territory":"Germany"}
+{"airline_name":"EVA Air","iata_designator":"BR","digit_code":"695","icao_designator":"EVA","country_or_territory":"Chinese Taipei"}
+{"airline_name":"Evelop Airlines","iata_designator":"E9","digit_code":"783","icao_designator":"EVE","country_or_territory":"Spain"}
+{"airline_name":"FedEx Express","iata_designator":"FX","digit_code":"023","icao_designator":"FDX","country_or_territory":"United States"}
+{"airline_name":"Fiji Airways","iata_designator":"FJ","digit_code":"260","icao_designator":"FJI","country_or_territory":"Fiji"}
+{"airline_name":"Finnair","iata_designator":"AY","digit_code":"105","icao_designator":"FIN","country_or_territory":"Finland"}
+{"airline_name":"flybe","iata_designator":"BE","digit_code":"267","icao_designator":"BEE","country_or_territory":"United Kingdom"}
+{"airline_name":"flydubai","iata_designator":"FZ","digit_code":"141","icao_designator":"FDB","country_or_territory":"United Arab Emirates"}
+{"airline_name":"FlyEgypt","iata_designator":"FT","digit_code":"171","icao_designator":"FEG","country_or_territory":"Egypt"}
+{"airline_name":"Freebird Airlines","iata_designator":"FH","digit_code":"None","icao_designator":"FHY","country_or_territory":"Turkey"}
+{"airline_name":"Fuzhou Airlines","iata_designator":"FU","digit_code":"666","icao_designator":"FZA","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Garuda Indonesia","iata_designator":"GA","digit_code":"126","icao_designator":"GIA","country_or_territory":"Indonesia"}
+{"airline_name":"Georgian Airways","iata_designator":"A9","digit_code":"606","icao_designator":"TGZ","country_or_territory":"Georgia"}
+{"airline_name":"Germania Flug AG","iata_designator":"GM","digit_code":"581","icao_designator":"GSW","country_or_territory":"Switzerland"}
+{"airline_name":"GOL Linhas Aereas","iata_designator":"G3","digit_code":"127","icao_designator":"GLO","country_or_territory":"Brazil"}
+{"airline_name":"Gulf Air","iata_designator":"GF","digit_code":"072","icao_designator":"GFA","country_or_territory":"Bahrain"}
+{"airline_name":"GX Airlines","iata_designator":"GX","digit_code":"872","icao_designator":"CBG","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Hahn Air","iata_designator":"HR*","digit_code":"169","icao_designator":"HHN","country_or_territory":"Germany"}
+{"airline_name":"Hainan Airlines","iata_designator":"HU","digit_code":"880","icao_designator":"CHH","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Hawaiian Airlines","iata_designator":"HA","digit_code":"173","icao_designator":"HAL","country_or_territory":"United States"}
+{"airline_name":"Hebei Airlines","iata_designator":"NS","digit_code":"836","icao_designator":"HBH","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Hi Fly","iata_designator":"5K","icao_designator":"HFY","country_or_territory":"Portugal"}
+{"airline_name":"Hong Kong Air Cargo","iata_designator":"RH","digit_code":"828","icao_designator":"HKC","country_or_territory":"Hong Kong SAR"}
+{"airline_name":"Hong Kong Airlines","iata_designator":"HX","digit_code":"851","icao_designator":"CRK","country_or_territory":"Hong Kong SAR"}
+{"airline_name":"Hong Kong Express Airways","iata_designator":"UO","digit_code":"128","icao_designator":"HKE","country_or_territory":"Hong Kong SAR"}
+{"airline_name":"IBERIA","iata_designator":"IB","digit_code":"075","icao_designator":"IBE","country_or_territory":"Spain"}
+{"airline_name":"Icelandair","iata_designator":"FI","digit_code":"108","icao_designator":"ICE","country_or_territory":"Iceland"}
+{"airline_name":"Interjet","iata_designator":"4O","digit_code":"837","icao_designator":"AIJ","country_or_territory":"Mexico"}
+{"airline_name":"Iran Air","iata_designator":"IR","digit_code":"096","icao_designator":"IRA","country_or_territory":"Iran"}
+{"airline_name":"Iran Airtour Airline","iata_designator":"B9","digit_code":"491","icao_designator":"IRB","country_or_territory":"Iran"}
+{"airline_name":"Iran Aseman Airlines","iata_designator":"EP","digit_code":"815","icao_designator":"IRC","country_or_territory":"Iran"}
+{"airline_name":"Israir","iata_designator":"6H","digit_code":"818","icao_designator":"ISR","country_or_territory":"Israel"}
+{"airline_name":"Japan Airlines","iata_designator":"JL","digit_code":"131","icao_designator":"JAL","country_or_territory":"Japan"}
+{"airline_name":"Jazeera Airways","iata_designator":"J9","digit_code":"486","icao_designator":"JZR","country_or_territory":"Kuwait"}
+{"airline_name":"Jeju Air","iata_designator":"7C","digit_code":"806","icao_designator":"JJA","country_or_territory":"Korea"}
+{"airline_name":"JetBlue","iata_designator":"B6","digit_code":"279","icao_designator":"JBU","country_or_territory":"United States"}
+{"airline_name":"Jin Air","iata_designator":"LJ","digit_code":"718","icao_designator":"JNA","country_or_territory":"Korea"}
+{"airline_name":"Jordan Aviation","iata_designator":"R5","digit_code":"151","icao_designator":"JAV","country_or_territory":"Jordan"}
+{"airline_name":"Juneyao Airlines","iata_designator":"HO","digit_code":"018","icao_designator":"DKH","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Kenya Airways","iata_designator":"KQ","digit_code":"706","icao_designator":"KQA","country_or_territory":"Kenya"}
+{"airline_name":"KLM","iata_designator":"KL","digit_code":"074","icao_designator":"KLM","country_or_territory":"Netherlands"}
+{"airline_name":"Korean Air","iata_designator":"KE","digit_code":"180","icao_designator":"KAL","country_or_territory":"Korea"}
+{"airline_name":"Kunming Airlines","iata_designator":"KY","digit_code":"833","icao_designator":"KNA","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Kuwait Airways","iata_designator":"KU","digit_code":"229","icao_designator":"KAC","country_or_territory":"Kuwait"}
+{"airline_name":"LAM","iata_designator":"TM","digit_code":"068","icao_designator":"LAM","country_or_territory":"Mozambique"}
+{"airline_name":"Lao Airlines","iata_designator":"QV","digit_code":"627","icao_designator":"LAO","country_or_territory":"Lao People's Democratic Republic"}
+{"airline_name":"LATAM Airlines Argentina","iata_designator":"4M","digit_code":"469","icao_designator":"DSM","country_or_territory":"Argentina"}
+{"airline_name":"LATAM Airlines Brasil","iata_designator":"JJ","digit_code":"957","icao_designator":"TAM","country_or_territory":"Brazil"}
+{"airline_name":"LATAM Airlines Colombia","iata_designator":"4C","digit_code":"035","icao_designator":"ARE","country_or_territory":"Colombia"}
+{"airline_name":"LATAM Airlines Ecuador","iata_designator":"XL","digit_code":"462","icao_designator":"LNE","country_or_territory":"Ecuador"}
+{"airline_name":"LATAM Airlines Group","iata_designator":"LA","digit_code":"045","icao_designator":"LAN","country_or_territory":"Chile"}
+{"airline_name":"LATAM Airlines Paraguay","iata_designator":"PZ","digit_code":"692","icao_designator":"LAP","country_or_territory":"Paraguay"}
+{"airline_name":"LATAM Airlines Peru","iata_designator":"LP","digit_code":"544","icao_designator":"LPE","country_or_territory":"Peru"}
+{"airline_name":"LATAM Cargo Brasil","iata_designator":"M3","digit_code":"549","icao_designator":"LTG","country_or_territory":"Brazil"}
+{"airline_name":"LATAM Cargo Chile","iata_designator":"UC","digit_code":"145","icao_designator":"LCO","country_or_territory":"Chile"}
+{"airline_name":"LIAT Airlines","iata_designator":"LI","digit_code":"140","icao_designator":"LIA","country_or_territory":"Antigua and Barbuda"}
+{"airline_name":"Loong Air","iata_designator":"GJ","digit_code":"891","icao_designator":"CDC","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"LOT Polish Airlines","iata_designator":"LO","digit_code":"080","icao_designator":"LOT","country_or_territory":"Poland"}
+{"airline_name":"Lucky Air","iata_designator":"8L","digit_code":"859","icao_designator":"LKE","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Lufthansa","iata_designator":"LH","digit_code":"220","icao_designator":"DLH","country_or_territory":"Germany"}
+{"airline_name":"Lufthansa CityLine","iata_designator":"CL","digit_code":"683","icao_designator":"CLH","country_or_territory":"Germany"}
+{"airline_name":"Luxair","iata_designator":"LG","digit_code":"149","icao_designator":"LGL","country_or_territory":"Luxembourg"}
+{"airline_name":"Mahan Air","iata_designator":"W5","digit_code":"537","icao_designator":"IRM","country_or_territory":"Iran"}
+{"airline_name":"Malaysia Airlines","iata_designator":"MH","digit_code":"232","icao_designator":"MAS","country_or_territory":"Malaysia"}
+{"airline_name":"Malindo Air","iata_designator":"OD","digit_code":"816","icao_designator":"MXD","country_or_territory":"Malaysia"}
+{"airline_name":"Mandarin Airlines","iata_designator":"AE","digit_code":"803","icao_designator":"MDA","country_or_territory":"Chinese Taipei"}
+{"airline_name":"Martinair Cargo","iata_designator":"MP","digit_code":"129","icao_designator":"MPH","country_or_territory":"Netherlands"}
+{"airline_name":"MasAir","iata_designator":"M7","digit_code":"865","icao_designator":"MAA","country_or_territory":"Mexico"}
+{"airline_name":"Mauritania Airlines International","iata_designator":"L6","digit_code":"495","icao_designator":"MAI","country_or_territory":"Mauritania"}
+{"airline_name":"MEA","iata_designator":"ME","digit_code":"076","icao_designator":"MEA","country_or_territory":"Lebanon"}
+{"airline_name":"MIAT Mongolian Airlines","iata_designator":"OM","digit_code":"289","icao_designator":"MGL","country_or_territory":"Mongolia"}
+{"airline_name":"Mistral Air","iata_designator":"M4","digit_code":"408","icao_designator":"MSA","country_or_territory":"Italy"}
+{"airline_name":"MNG Airlines","iata_designator":"MB","digit_code":"716","icao_designator":"MNB","country_or_territory":"Turkey"}
+{"airline_name":"Montenegro Airlines","iata_designator":"YM","digit_code":"409","icao_designator":"MGX","country_or_territory":"Montenegro"}
+{"airline_name":"Myanmar Airways International","iata_designator":"8M","digit_code":"599","icao_designator":"MMA","country_or_territory":"Myanmar"}
+{"airline_name":"NCA Nippon Cargo Airlines","iata_designator":"KZ","digit_code":"933","icao_designator":"NCA","country_or_territory":"Japan"}
+{"airline_name":"Neos","iata_designator":"NO","digit_code":"703","icao_designator":"NOS","country_or_territory":"Italy"}
+{"airline_name":"Nesma Airlines","iata_designator":"NE","digit_code":"477","icao_designator":"NMA","country_or_territory":"Egypt"}
+{"airline_name":"Nile Air","iata_designator":"NP","digit_code":"325","icao_designator":"NIA","country_or_territory":"Egypt"}
+{"airline_name":"Nordavia Regional Airlines","iata_designator":"5N","digit_code":"316","icao_designator":"AUL","country_or_territory":"Russian Federation"}
+{"airline_name":"NordStar","iata_designator":"Y7","digit_code":"476","icao_designator":"TYA","country_or_territory":"Russian Federation"}
+{"airline_name":"Nordwind Airlines","iata_designator":"N4","digit_code":"216","icao_designator":"NWS","country_or_territory":"Russian Federation"}
+{"airline_name":"Nouvelair","iata_designator":"BJ","digit_code":"796","icao_designator":"LBT","country_or_territory":"Tunisia"}
+{"airline_name":"Okay Airways","iata_designator":"BK","digit_code":"866","icao_designator":"OKA","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Olympic Air","iata_designator":"OA","digit_code":"050","icao_designator":"OAL","country_or_territory":"Greece"}
+{"airline_name":"Oman Air","iata_designator":"WY","digit_code":"910","icao_designator":"OAS","country_or_territory":"Oman"}
+{"airline_name":"Onur Air","iata_designator":"8Q","digit_code":"066","icao_designator":"OHY","country_or_territory":"Turkey"}
+{"airline_name":"Overland Airways","iata_designator":"OF","icao_designator":"OLA","country_or_territory":"Nigeria"}
+{"airline_name":"Pegas Fly","iata_designator":"EO","digit_code":"770","icao_designator":"KAR","country_or_territory":"Russian Federation"}
+{"airline_name":"Pegasus Airlines","iata_designator":"PC","digit_code":"624","icao_designator":"PGT","country_or_territory":"Turkey"}
+{"airline_name":"PGA-Portugalia Airlines","iata_designator":"NI","digit_code":"685","icao_designator":"PGA","country_or_territory":"Portugal"}
+{"airline_name":"Philippine Airlines","iata_designator":"PR","digit_code":"079","icao_designator":"PAL","country_or_territory":"Philippines"}
+{"airline_name":"PIA Pakistan International Airlines","iata_designator":"PK","digit_code":"214","icao_designator":"PIA","country_or_territory":"Pakistan"}
+{"airline_name":"Precision Air","iata_designator":"PW","digit_code":"031","icao_designator":"PRF","country_or_territory":"Tanzania"}
+{"airline_name":"Qantas","iata_designator":"QF","digit_code":"081","icao_designator":"QFA","country_or_territory":"Australia"}
+{"airline_name":"Qatar Airways","iata_designator":"QR","digit_code":"157","icao_designator":"QTR","country_or_territory":"Qatar"}
+{"airline_name":"Qazaq Air","iata_designator":"IQ","icao_designator":"QAZ","country_or_territory":"Kazakhstan"}
+{"airline_name":"Ravn Alaska","iata_designator":"7H","digit_code":"808","icao_designator":"ERH","country_or_territory":"United States"}
+{"airline_name":"Rossiya Airlines","iata_designator":"FV","digit_code":"195","icao_designator":"SDM","country_or_territory":"Russian Federation"}
+{"airline_name":"Royal Air Maroc","iata_designator":"AT","digit_code":"147","icao_designator":"RAM","country_or_territory":"Morocco"}
+{"airline_name":"Royal Brunei","iata_designator":"BI","digit_code":"672","icao_designator":"RBA","country_or_territory":"Brunei Darussalam"}
+{"airline_name":"Royal Jordanian","iata_designator":"RJ","digit_code":"512","icao_designator":"RJA","country_or_territory":"Jordan"}
+{"airline_name":"RwandAir","iata_designator":"WB","digit_code":"459","icao_designator":"RWD","country_or_territory":"Rwanda"}
+{"airline_name":"S7 Airlines","iata_designator":"S7","digit_code":"421","icao_designator":"SBI","country_or_territory":"Russian Federation"}
+{"airline_name":"Safair","iata_designator":"FA*","digit_code":"640","icao_designator":"SFR","country_or_territory":"South Africa"}
+{"airline_name":"SAS","iata_designator":"SK","digit_code":"117","icao_designator":"SAS","country_or_territory":"Sweden"}
+{"airline_name":"SATA Air Acores","iata_designator":"SP","digit_code":"737","icao_designator":"SAT","country_or_territory":"Portugal"}
+{"airline_name":"Saudi Arabian Airlines","iata_designator":"SV","digit_code":"065","icao_designator":"SVA","country_or_territory":"Saudi Arabia"}
+{"airline_name":"SaudiGulf Airlines","iata_designator":"6S","digit_code":"571","icao_designator":"SGQ","country_or_territory":"Saudi Arabia"}
+{"airline_name":"SCAT Airlines","iata_designator":"DV","digit_code":"655","icao_designator":"VSV","country_or_territory":"Kazakhstan"}
+{"airline_name":"SF Airlines","iata_designator":"O3","digit_code":"921","icao_designator":"CSS","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Shandong Airlines","iata_designator":"SC","digit_code":"324","icao_designator":"CDG","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Shanghai Airlines","iata_designator":"FM","digit_code":"774","icao_designator":"CSH","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Shenzhen Airlines","iata_designator":"ZH","digit_code":"479","icao_designator":"CSZ","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Sichuan Airlines","iata_designator":"3U","digit_code":"876","icao_designator":"CSC","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Silk Way West Airlines","iata_designator":"7L","digit_code":"501","icao_designator":"AZG","country_or_territory":"Azerbaijan"}
+{"airline_name":"SilkAir","iata_designator":"MI","digit_code":"629","icao_designator":"SLK","country_or_territory":"Singapore"}
+{"airline_name":"Singapore Airlines","iata_designator":"SQ","digit_code":"618","icao_designator":"SIA","country_or_territory":"Singapore"}
+{"airline_name":"SKY Airline","iata_designator":"H2","digit_code":"605","icao_designator":"SKU","country_or_territory":"Chile"}
+{"airline_name":"Solomon Airlines","iata_designator":"IE","digit_code":"193","icao_designator":"SOL","country_or_territory":"Solomon Islands"}
+{"airline_name":"Somon Air","iata_designator":"SZ","digit_code":"413","icao_designator":"SMR","country_or_territory":"Tajikistan"}
+{"airline_name":"South African Airways","iata_designator":"SA","digit_code":"083","icao_designator":"SAA","country_or_territory":"South Africa"}
+{"airline_name":"South African Express Airways","iata_designator":"XZ","icao_designator":"EXY","country_or_territory":"South Africa"}
+{"airline_name":"SpiceJet","iata_designator":"SG","digit_code":"775","icao_designator":"SEJ","country_or_territory":"India"}
+{"airline_name":"SriLankan Airlines","iata_designator":"UL","digit_code":"603","icao_designator":"ALK","country_or_territory":"Sri Lanka"}
+{"airline_name":"SunExpress","iata_designator":"XQ*","digit_code":"564","icao_designator":"SXS","country_or_territory":"Turkey"}
+{"airline_name":"Suparna Airlines","iata_designator":"Y8","digit_code":"871","icao_designator":"YZR","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"Surinam Airways","iata_designator":"PY","digit_code":"192","icao_designator":"SLM","country_or_territory":"Suriname"}
+{"airline_name":"SWISS","iata_designator":"LX","digit_code":"724","icao_designator":"SWR","country_or_territory":"Switzerland"}
+{"airline_name":"Syrianair","iata_designator":"RB","digit_code":"070","icao_designator":"SYR","country_or_territory":"Syrian Arab Republic"}
+{"airline_name":"TAAG Angola Airlines","iata_designator":"DT","digit_code":"118","icao_designator":"DTA","country_or_territory":"Angola"}
+{"airline_name":"TACA","iata_designator":"TA","digit_code":"202","icao_designator":"TAI","country_or_territory":"El Salvador"}
+{"airline_name":"TACV Cabo Verde Airlines","iata_designator":"VR","digit_code":"696","icao_designator":"TCV","country_or_territory":"Cape Verde"}
+{"airline_name":"TAME","iata_designator":"EQ","digit_code":"269","icao_designator":"TAE","country_or_territory":"Ecuador"}
+{"airline_name":"TAP Portugal","iata_designator":"TP","digit_code":"047","icao_designator":"TAP","country_or_territory":"Portugal"}
+{"airline_name":"TAROM","iata_designator":"RO","digit_code":"281","icao_designator":"ROT","country_or_territory":"Romania"}
+{"airline_name":"Tassili Airlines","iata_designator":"SF","digit_code":"515","icao_designator":"DTH","country_or_territory":"Algeria"}
+{"airline_name":"Thai Airways International","iata_designator":"TG","digit_code":"217","icao_designator":"THA","country_or_territory":"Thailand"}
+{"airline_name":"Thai Lion Air","iata_designator":"SL","digit_code":"310","icao_designator":"TLM","country_or_territory":"Thailand"}
+{"airline_name":"Thai Smile","iata_designator":"WE","digit_code":"909","icao_designator":"THD","country_or_territory":"Thailand"}
+{"airline_name":"Tianjin Airlines","iata_designator":"GS","digit_code":"826","icao_designator":"GCR","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"TUIfly","iata_designator":"X3*","digit_code":"617","icao_designator":"TUI","country_or_territory":"Germany"}
+{"airline_name":"Tunisair","iata_designator":"TU","digit_code":"199","icao_designator":"TAR","country_or_territory":"Tunisia"}
+{"airline_name":"Turkish Airlines","iata_designator":"TK","digit_code":"235","icao_designator":"THY","country_or_territory":"Turkey"}
+{"airline_name":"T'way Air","iata_designator":"TW","digit_code":"722","icao_designator":"TWB","country_or_territory":"Korea"}
+{"airline_name":"Ukraine International Airlines","iata_designator":"PS","digit_code":"566","icao_designator":"AUI","country_or_territory":"Ukraine"}
+{"airline_name":"UNI AIR","iata_designator":"B7","digit_code":"525","icao_designator":"UIA","country_or_territory":"Chinese Taipei"}
+{"airline_name":"United Airlines","iata_designator":"UA","digit_code":"016","icao_designator":"UAL","country_or_territory":"United States"}
+{"airline_name":"UPS Airlines","iata_designator":"5X","digit_code":"406","icao_designator":"UPS","country_or_territory":"United States"}
+{"airline_name":"Ural Airlines","iata_designator":"U6","digit_code":"262","icao_designator":"SVR","country_or_territory":"Russian Federation"}
+{"airline_name":"Urumqi Air","iata_designator":"UQ","digit_code":"886","icao_designator":"CUH","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"UTair","iata_designator":"UT","digit_code":"298","icao_designator":"UTA","country_or_territory":"Russian Federation"}
+{"airline_name":"Uzbekistan Airways","iata_designator":"HY","digit_code":"250","icao_designator":"UZB","country_or_territory":"Uzbekistan"}
+{"airline_name":"Vietjet","iata_designator":"VJ","digit_code":"978","icao_designator":"VJC","country_or_territory":"Vietnam"}
+{"airline_name":"Vietnam Airlines","iata_designator":"VN","digit_code":"738","icao_designator":"HVN","country_or_territory":"Vietnam"}
+{"airline_name":"Virgin Atlantic","iata_designator":"VS","digit_code":"932","icao_designator":"VIR","country_or_territory":"United Kingdom"}
+{"airline_name":"Virgin Australia","iata_designator":"VA","digit_code":"795","icao_designator":"VOZ","country_or_territory":"Australia"}
+{"airline_name":"Vistara","iata_designator":"UK","digit_code":"228","icao_designator":"VTI","country_or_territory":"India"}
+{"airline_name":"Volaris","iata_designator":"Y4*","digit_code":"036","icao_designator":"VOI","country_or_territory":"Mexico"}
+{"airline_name":"Volotea","iata_designator":"V7","digit_code":"712","icao_designator":"VOE","country_or_territory":"Spain"}
+{"airline_name":"Vueling","iata_designator":"VY","digit_code":"030","icao_designator":"VLG","country_or_territory":"Spain"}
+{"airline_name":"Wamos Air","iata_designator":"EB","digit_code":"460","icao_designator":"PLM","country_or_territory":"Spain"}
+{"airline_name":"WDL Aviation","iata_designator":"WH","digit_code":"944","icao_designator":"WDL","country_or_territory":"Germany"}
+{"airline_name":"WestJet","iata_designator":"WS","digit_code":"838","icao_designator":"WJA","country_or_territory":"Canada"}
+{"airline_name":"White coloured by you","iata_designator":"WI","digit_code":"097","icao_designator":"WHT","country_or_territory":"Portugal"}
+{"airline_name":"Wideroe","iata_designator":"WF","digit_code":"701","icao_designator":"WIF","country_or_territory":"Norway"}
+{"airline_name":"Xiamen Airlines","iata_designator":"MF","digit_code":"731","icao_designator":"CXA","country_or_territory":"China (People's Republic of)"}
+{"airline_name":"XL Airways","iata_designator":"SE","digit_code":"473","icao_designator":"XLF","country_or_territory":"France"}
+{"airline_name":"unknown","iata_designator":"unknown","digit_code":"unknown","icao_designator":"unknown","country_or_territory":"unknown"}

@@ -1,0 +1,660 @@
+{"port_code": "ALC", "port_name": "ALCAN, AK"}
+{"port_code": "ANC", "port_name": "ANCHORAGE, AK"}
+{"port_code": "BAR", "port_name": "BAKER AAF - BAKER ISLAND, AK"}
+{"port_code": "DAC", "port_name": "DALTONS CACHE, AK"}
+{"port_code": "PIZ", "port_name": "DEW STATION PT LAY DEW, AK"}
+{"port_code": "DTH", "port_name": "DUTCH HARBOR, AK"}
+{"port_code": "EGL", "port_name": "EAGLE, AK"}
+{"port_code": "FRB", "port_name": "FAIRBANKS, AK"}
+{"port_code": "HOM", "port_name": "HOMER, AK"}
+{"port_code": "HYD", "port_name": "HYDER, AK"}
+{"port_code": "JUN", "port_name": "JUNEAU, AK"}
+{"port_code": "5KE", "port_name": "KETCHIKAN, AK"}
+{"port_code": "KET", "port_name": "KETCHIKAN, AK"}
+{"port_code": "MOS", "port_name": "MOSES POINT INTERMEDIATE, AK"}
+{"port_code": "NIK", "port_name": "NIKISKI, AK"}
+{"port_code": "NOM", "port_name": "NOM, AK"}
+{"port_code": "PKC", "port_name": "POKER CREEK, AK"}
+{"port_code": "ORI", "port_name": "PORT LIONS SPB, AK"}
+{"port_code": "SKA", "port_name": "SKAGWAY, AK"}
+{"port_code": "SNP", "port_name": "ST. PAUL ISLAND, AK"}
+{"port_code": "TKI", "port_name": "TOKEEN, AK"}
+{"port_code": "WRA", "port_name": "WRANGELL, AK"}
+{"port_code": "HSV", "port_name": "MADISON COUNTY - HUNTSVILLE, AL"}
+{"port_code": "MOB", "port_name": "MOBILE, AL"}
+{"port_code": "LIA", "port_name": "LITTLE ROCK, AR (BPS)"}
+{"port_code": "ROG", "port_name": "ROGERS ARPT, AR"}
+{"port_code": "DOU", "port_name": "DOUGLAS, AZ"}
+{"port_code": "LUK", "port_name": "LUKEVILLE, AZ"}
+{"port_code": "MAP", "port_name": "MARIPOSA AZ"}
+{"port_code": "NAC", "port_name": "NACO, AZ"}
+{"port_code": "NOG", "port_name": "NOGALES, AZ"}
+{"port_code": "PHO", "port_name": "PHOENIX, AZ"}
+{"port_code": "POR", "port_name": "PORTAL, AZ"}
+{"port_code": "SLU", "port_name": "SAN LUIS, AZ"}
+{"port_code": "SAS", "port_name": "SASABE, AZ"}
+{"port_code": "TUC", "port_name": "TUCSON, AZ"}
+{"port_code": "YUI", "port_name": "YUMA, AZ"}
+{"port_code": "AND", "port_name": "ANDRADE, CA"}
+{"port_code": "BUR", "port_name": "BURBANK, CA"}
+{"port_code": "CAL", "port_name": "CALEXICO, CA"}
+{"port_code": "CAO", "port_name": "CAMPO, CA"}
+{"port_code": "FRE", "port_name": "FRESNO, CA"}
+{"port_code": "ICP", "port_name": "IMPERIAL COUNTY, CA"}
+{"port_code": "LNB", "port_name": "LONG BEACH, CA"}
+{"port_code": "LOS", "port_name": "LOS ANGELES, CA"}
+{"port_code": "BFL", "port_name": "MEADOWS FIELD - BAKERSFIELD, CA"}
+{"port_code": "OAK", "port_name": "OAKLAND, CA"}
+{"port_code": "ONT", "port_name": "ONTARIO, CA"}
+{"port_code": "OTM", "port_name": "OTAY MESA, CA"}
+{"port_code": "BLT", "port_name": "PACIFIC, HWY. STATION, CA"}
+{"port_code": "PSP", "port_name": "PALM SPRINGS, CA"}
+{"port_code": "SAC", "port_name": "SACRAMENTO, CA"}
+{"port_code": "SLS", "port_name": "SALINAS, CA (BPS)"}
+{"port_code": "SDP", "port_name": "SAN DIEGO, CA"}
+{"port_code": "SFR", "port_name": "SAN FRANCISCO, CA"}
+{"port_code": "SNJ", "port_name": "SAN JOSE, CA"}
+{"port_code": "SLO", "port_name": "SAN LUIS OBISPO, CA"}
+{"port_code": "SLI", "port_name": "SAN LUIS OBISPO, CA (BPS)"}
+{"port_code": "SPC", "port_name": "SAN PEDRO, CA"}
+{"port_code": "SYS", "port_name": "SAN YSIDRO, CA"}
+{"port_code": "SAA", "port_name": "SANTA ANA, CA"}
+{"port_code": "STO", "port_name": "STOCKTON, CA (BPS)"}
+{"port_code": "TEC", "port_name": "TECATE, CA"}
+{"port_code": "TRV", "port_name": "TRAVIS-AFB, CA"}
+{"port_code": "APA", "port_name": "ARAPAHOE COUNTY, CO"}
+{"port_code": "ASE", "port_name": "ASPEN, CO #ARPT"}
+{"port_code": "COS", "port_name": "COLORADO SPRINGS, CO"}
+{"port_code": "DEN", "port_name": "DENVER, CO"}
+{"port_code": "DRO", "port_name": "LA PLATA - DURANGO, CO"}
+{"port_code": "BDL", "port_name": "BRADLEY INTERNATIONAL, CT"}
+{"port_code": "BGC", "port_name": "BRIDGEPORT, CT"}
+{"port_code": "GRT", "port_name": "GROTON, CT"}
+{"port_code": "HAR", "port_name": "HARTFORD, CT"}
+{"port_code": "NWH", "port_name": "NEW HAVEN, CT"}
+{"port_code": "NWL", "port_name": "NEW LONDON, CT"}
+{"port_code": "TST", "port_name": "NEWINGTON DATA CENTER TEST, CT"}
+{"port_code": "WAS", "port_name": "WASHINGTON DC"}
+{"port_code": "DOV", "port_name": "DOVER AFB, DE"}
+{"port_code": "DVD", "port_name": "DOVER-AFB, DE"}
+{"port_code": "WLL", "port_name": "WILMINGTON, DE"}
+{"port_code": "BOC", "port_name": "BOCAGRANDE, FL"}
+{"port_code": "SRQ", "port_name": "BRADENTON - SARASOTA, FL"}
+{"port_code": "CAN", "port_name": "CAPE CANAVERAL, FL"}
+{"port_code": "DAB", "port_name": "DAYTONA BEACH INTERNATIONAL, FL"}
+{"port_code": "FRN", "port_name": "FERNANDINA, FL"}
+{"port_code": "FTL", "port_name": "FORT LAUDERDALE, FL"}
+{"port_code": "FMY", "port_name": "FORT MYERS, FL"}
+{"port_code": "FPF", "port_name": "FORT PIERCE, FL"}
+{"port_code": "HUR", "port_name": "HURLBURT FIELD, FL"}
+{"port_code": "GNV", "port_name": "J R ALISON MUNI - GAINESVILLE, FL"}
+{"port_code": "JAC", "port_name": "JACKSONVILLE, FL"}
+{"port_code": "KEY", "port_name": "KEY WEST, FL"}
+{"port_code": "LEE", "port_name": "LEESBURG MUNICIPAL AIRPORT, FL"}
+{"port_code": "MLB", "port_name": "MELBOURNE, FL"}
+{"port_code": "MIA", "port_name": "MIAMI, FL"}
+{"port_code": "APF", "port_name": "NAPLES, FL #ARPT"}
+{"port_code": "OPF", "port_name": "OPA LOCKA, FL"}
+{"port_code": "ORL", "port_name": "ORLANDO, FL"}
+{"port_code": "PAN", "port_name": "PANAMA CITY, FL"}
+{"port_code": "PEN", "port_name": "PENSACOLA, FL"}
+{"port_code": "PCF", "port_name": "PORT CANAVERAL, FL"}
+{"port_code": "PEV", "port_name": "PORT EVERGLADES, FL"}
+{"port_code": "PSJ", "port_name": "PORT ST JOE, FL"}
+{"port_code": "SFB", "port_name": "SANFORD, FL"}
+{"port_code": "SGJ", "port_name": "ST AUGUSTINE ARPT, FL"}
+{"port_code": "SAU", "port_name": "ST AUGUSTINE, FL"}
+{"port_code": "FPR", "port_name": "ST LUCIE COUNTY, FL"}
+{"port_code": "SPE", "port_name": "ST PETERSBURG, FL"}
+{"port_code": "TAM", "port_name": "TAMPA, FL"}
+{"port_code": "WPB", "port_name": "WEST PALM BEACH, FL"}
+{"port_code": "ATL", "port_name": "ATLANTA, GA"}
+{"port_code": "BRU", "port_name": "BRUNSWICK, GA"}
+{"port_code": "AGS", "port_name": "BUSH FIELD - AUGUSTA, GA"}
+{"port_code": "SAV", "port_name": "SAVANNAH, GA"}
+{"port_code": "AGA", "port_name": "AGANA, GU"}
+{"port_code": "HHW", "port_name": "HONOLULU, HI"}
+{"port_code": "OGG", "port_name": "KAHULUI - MAUI, HI"}
+{"port_code": "KOA", "port_name": "KEAHOLE-KONA, HI"}
+{"port_code": "LIH", "port_name": "LIHUE, HI"}
+{"port_code": "CID", "port_name": "CEDAR RAPIDS/IOWA CITY, IA"}
+{"port_code": "DSM", "port_name": "DES MOINES, IA"}
+{"port_code": "BOI", "port_name": "AIR TERM. (GOWEN FLD) BOISE, ID"}
+{"port_code": "EPI", "port_name": "EASTPORT, ID"}
+{"port_code": "IDA", "port_name": "FANNING FIELD - IDAHO FALLS, ID"}
+{"port_code": "PTL", "port_name": "PORTHILL, ID"}
+{"port_code": "SPI", "port_name": "CAPITAL - SPRINGFIELD, IL"}
+{"port_code": "CHI", "port_name": "CHICAGO, IL"}
+{"port_code": "DPA", "port_name": "DUPAGE COUNTY, IL"}
+{"port_code": "PIA", "port_name": "GREATER PEORIA, IL"}
+{"port_code": "RFD", "port_name": "GREATER ROCKFORD, IL"}
+{"port_code": "UGN", "port_name": "MEMORIAL - WAUKEGAN, IL"}
+{"port_code": "GAR", "port_name": "GARY, IN"}
+{"port_code": "HMM", "port_name": "HAMMOND, IN"}
+{"port_code": "INP", "port_name": "INDIANAPOLIS, IN"}
+{"port_code": "MRL", "port_name": "MERRILLVILLE, IN"}
+{"port_code": "SBN", "port_name": "SOUTH BEND, IN"}
+{"port_code": "ICT", "port_name": "MID-CONTINENT - WITCHITA, KS"}
+{"port_code": "LEX", "port_name": "BLUE GRASS - LEXINGTON, KY"}
+{"port_code": "LOU", "port_name": "LOUISVILLE, KY"}
+{"port_code": "BTN", "port_name": "BATON ROUGE, LA"}
+{"port_code": "LKC", "port_name": "LAKE CHARLES, LA"}
+{"port_code": "LAK", "port_name": "LAKE CHARLES, LA (BPS)"}
+{"port_code": "MLU", "port_name": "MONROE, LA"}
+{"port_code": "MGC", "port_name": "MORGAN CITY, LA"}
+{"port_code": "NOL", "port_name": "NEW ORLEANS, LA"}
+{"port_code": "BOS", "port_name": "BOSTON, MA"}
+{"port_code": "GLO", "port_name": "GLOUCESTER, MA"}
+{"port_code": "BED", "port_name": "HANSCOM FIELD - BEDFORD, MA"}
+{"port_code": "LYN", "port_name": "LYNDEN, WA"}
+{"port_code": "ADW", "port_name": "ANDREWS AFB, MD"}
+{"port_code": "BAL", "port_name": "BALTIMORE, MD"}
+{"port_code": "MKG", "port_name": "MUSKEGON, MD"}
+{"port_code": "PAX", "port_name": "PATUXENT RIVER, MD"}
+{"port_code": "BGM", "port_name": "BANGOR, ME"}
+{"port_code": "BOO", "port_name": "BOOTHBAY HARBOR, ME"}
+{"port_code": "BWM", "port_name": "BRIDGEWATER, ME"}
+{"port_code": "BCK", "port_name": "BUCKPORT, ME"}
+{"port_code": "CLS", "port_name": "CALAIS, ME"}
+{"port_code": "CRB", "port_name": "CARIBOU, ME"}
+{"port_code": "COB", "port_name": "COBURN GORE, ME"}
+{"port_code": "EST", "port_name": "EASTCOURT, ME"}
+{"port_code": "EPT", "port_name": "EASTPORT MUNICIPAL, ME"}
+{"port_code": "EPM", "port_name": "EASTPORT, ME"}
+{"port_code": "FOR", "port_name": "FOREST CITY, ME"}
+{"port_code": "FTF", "port_name": "FORT FAIRFIELD, ME"}
+{"port_code": "FTK", "port_name": "FORT KENT, ME"}
+{"port_code": "HML", "port_name": "HAMIIN, ME"}
+{"port_code": "HTM", "port_name": "HOULTON, ME"}
+{"port_code": "JKM", "port_name": "JACKMAN, ME"}
+{"port_code": "KAL", "port_name": "KALISPEL, MT"}
+{"port_code": "LIM", "port_name": "LIMESTONE, ME"}
+{"port_code": "LUB", "port_name": "LUBEC, ME"}
+{"port_code": "MAD", "port_name": "MADAWASKA, ME"}
+{"port_code": "POM", "port_name": "PORTLAND, ME"}
+{"port_code": "RGM", "port_name": "RANGELEY, ME (BPS)"}
+{"port_code": "SBR", "port_name": "SOUTH BREWER, ME"}
+{"port_code": "SRL", "port_name": "ST AURELIE, ME"}
+{"port_code": "SPA", "port_name": "ST PAMPILE, ME"}
+{"port_code": "VNB", "port_name": "VAN BUREN, ME"}
+{"port_code": "VCB", "port_name": "VANCEBORO, ME"}
+{"port_code": "AGN", "port_name": "ALGONAC, MI"}
+{"port_code": "ALP", "port_name": "ALPENA, MI"}
+{"port_code": "BCY", "port_name": "BAY CITY, MI"}
+{"port_code": "DET", "port_name": "DETROIT, MI"}
+{"port_code": "GRP", "port_name": "GRAND RAPIDS, MI"}
+{"port_code": "GRO", "port_name": "GROSSE ISLE, MI"}
+{"port_code": "ISL", "port_name": "ISLE ROYALE, MI"}
+{"port_code": "MRC", "port_name": "MARINE CITY, MI"}
+{"port_code": "MRY", "port_name": "MARYSVILLE, MI"}
+{"port_code": "PTK", "port_name": "OAKLAND COUNTY - PONTIAC, MI"}
+{"port_code": "PHU", "port_name": "PORT HURON, MI"}
+{"port_code": "RBT", "port_name": "ROBERTS LANDING, MI"}
+{"port_code": "SAG", "port_name": "SAGINAW, MI"}
+{"port_code": "SSM", "port_name": "SAULT STE. MARIE, MI"}
+{"port_code": "SCL", "port_name": "ST CLAIR, MI"}
+{"port_code": "YIP", "port_name": "WILLOW RUN - YPSILANTI, MI"}
+{"port_code": "BAU", "port_name": "BAUDETTE, MN"}
+{"port_code": "CAR", "port_name": "CARIBOU MUNICIPAL AIRPORT, MN"}
+{"port_code": "GTF", "port_name": "Collapsed into INT, MN"}
+{"port_code": "INL", "port_name": "Collapsed into INT, MN"}
+{"port_code": "CRA", "port_name": "CRANE LAKE, MN"}
+{"port_code": "MIC", "port_name": "CRYSTAL MUNICIPAL AIRPORT, MN"}
+{"port_code": "DUL", "port_name": "DULUTH, MN"}
+{"port_code": "ELY", "port_name": "ELY, MN"}
+{"port_code": "GPM", "port_name": "GRAND PORTAGE, MN"}
+{"port_code": "SVC", "port_name": "GRANT COUNTY - SILVER CITY, MN"}
+{"port_code": "INT", "port_name": "INTL FALLS, MN"}
+{"port_code": "LAN", "port_name": "LANCASTER, MN"}
+{"port_code": "MSP", "port_name": "MINN./ST PAUL, MN"}
+{"port_code": "LIN", "port_name": "NORTHERN SVC CENTER, MN"}
+{"port_code": "NOY", "port_name": "NOYES, MN"}
+{"port_code": "PIN", "port_name": "PINE CREEK, MN"}
+{"port_code": "48Y", "port_name": "PINECREEK BORDER ARPT, MN"}
+{"port_code": "RAN", "port_name": "RAINER, MN"}
+{"port_code": "RST", "port_name": "ROCHESTER, MN"}
+{"port_code": "ROS", "port_name": "ROSEAU, MN"}
+{"port_code": "SPM", "port_name": "ST PAUL, MN"}
+{"port_code": "WSB", "port_name": "WARROAD INTL, SPB, MN"}
+{"port_code": "WAR", "port_name": "WARROAD, MN"}
+{"port_code": "KAN", "port_name": "KANSAS CITY, MO"}
+{"port_code": "SGF", "port_name": "SPRINGFIELD-BRANSON, MO"}
+{"port_code": "STL", "port_name": "ST LOUIS, MO"}
+{"port_code": "WHI", "port_name": "WHITETAIL, MT"}
+{"port_code": "WHM", "port_name": "WILD HORSE, MT"}
+{"port_code": "GPT", "port_name": "BILOXI REGIONAL, MS"}
+{"port_code": "GTR", "port_name": "GOLDEN TRIANGLE LOWNDES CNTY, MS"}
+{"port_code": "GUL", "port_name": "GULFPORT, MS"}
+{"port_code": "PAS", "port_name": "PASCAGOULA, MS"}
+{"port_code": "JAN", "port_name": "THOMPSON FIELD - JACKSON, MS"}
+{"port_code": "BIL", "port_name": "BILLINGS, MT"}
+{"port_code": "BTM", "port_name": "BUTTE, MT"}
+{"port_code": "CHF", "port_name": "CHIEF MT, MT"}
+{"port_code": "CTB", "port_name": "CUT BANK MUNICIPAL, MT"}
+{"port_code": "CUT", "port_name": "CUT BANK, MT"}
+{"port_code": "DLB", "port_name": "DEL BONITA, MT"}
+{"port_code": "EUR", "port_name": "EUREKA, MT (BPS)"}
+{"port_code": "BZN", "port_name": "GALLATIN FIELD - BOZEMAN, MT"}
+{"port_code": "FCA", "port_name": "GLACIER NATIONAL PARK, MT"}
+{"port_code": "GGW", "port_name": "GLASGOW, MT"}
+{"port_code": "GRE", "port_name": "GREAT FALLS, MT"}
+{"port_code": "HVR", "port_name": "HAVRE, MT"}
+{"port_code": "HEL", "port_name": "HELENA, MT"}
+{"port_code": "LWT", "port_name": "LEWISTON, MT"}
+{"port_code": "MGM", "port_name": "MORGAN, MT"}
+{"port_code": "OPH", "port_name": "OPHEIM, MT"}
+{"port_code": "PIE", "port_name": "PIEGAN, MT"}
+{"port_code": "RAY", "port_name": "RAYMOND, MT"}
+{"port_code": "ROO", "port_name": "ROOSVILLE, MT"}
+{"port_code": "SCO", "port_name": "SCOBEY, MT"}
+{"port_code": "SWE", "port_name": "SWEETGTASS, MT"}
+{"port_code": "TRL", "port_name": "TRIAL CREEK, MT"}
+{"port_code": "TUR", "port_name": "TURNER, MT"}
+{"port_code": "WCM", "port_name": "WILLOW CREEK, MT"}
+{"port_code": "CLT", "port_name": "CHARLOTTE, NC"}
+{"port_code": "FAY", "port_name": "FAYETTEVILLE, NC"}
+{"port_code": "MRH", "port_name": "MOREHEAD CITY, NC"}
+{"port_code": "FOP", "port_name": "MORRIS FIELDS AAF, NC"}
+{"port_code": "GSO", "port_name": "PIEDMONT TRIAD INTL AIRPORT, NC"}
+{"port_code": "RDU", "port_name": "RALEIGH/DURHAM, NC"}
+{"port_code": "SSC", "port_name": "SHAW AFB - SUMTER, NC"}
+{"port_code": "WIL", "port_name": "WILMINGTON, NC"}
+{"port_code": "AMB", "port_name": "AMBROSE, ND"}
+{"port_code": "ANT", "port_name": "ANTLER, ND"}
+{"port_code": "CRY", "port_name": "CARBURY, ND"}
+{"port_code": "DNS", "port_name": "DUNSEITH, ND"}
+{"port_code": "FAR", "port_name": "FARGO, ND"}
+{"port_code": "FRT", "port_name": "FORTUNA, ND"}
+{"port_code": "GRF", "port_name": "GRAND FORKS, ND"}
+{"port_code": "HNN", "port_name": "HANNAH, ND"}
+{"port_code": "HNS", "port_name": "HANSBORO, ND"}
+{"port_code": "MAI", "port_name": "MAIDA, ND"}
+{"port_code": "MND", "port_name": "MINOT, ND"}
+{"port_code": "NEC", "port_name": "NECHE, ND"}
+{"port_code": "NOO", "port_name": "NOONAN, ND"}
+{"port_code": "NRG", "port_name": "NORTHGATE, ND"}
+{"port_code": "PEM", "port_name": "PEMBINA, ND"}
+{"port_code": "SAR", "port_name": "SARLES, ND"}
+{"port_code": "SHR", "port_name": "SHERWOOD, ND"}
+{"port_code": "SJO", "port_name": "ST JOHN, ND"}
+{"port_code": "WAL", "port_name": "WALHALLA, ND"}
+{"port_code": "WHO", "port_name": "WESTHOPE, ND"}
+{"port_code": "WND", "port_name": "WILLISTON, ND"}
+{"port_code": "OMA", "port_name": "OMAHA, NE"}
+{"port_code": "LEB", "port_name": "LEBANON, NH"}
+{"port_code": "MHT", "port_name": "MANCHESTER, NH"}
+{"port_code": "PNH", "port_name": "PITTSBURG, NH"}
+{"port_code": "PSM", "port_name": "PORTSMOUTH, NH"}
+{"port_code": "BYO", "port_name": "BAYONNE, NJ"}
+{"port_code": "CNJ", "port_name": "CAMDEN, NJ"}
+{"port_code": "HOB", "port_name": "HOBOKEN, NJ"}
+{"port_code": "JER", "port_name": "JERSEY CITY, NJ"}
+{"port_code": "WRI", "port_name": "MC GUIRE AFB - WRIGHTSOWN, NJ"}
+{"port_code": "MMU", "port_name": "MORRISTOWN, NJ"}
+{"port_code": "NEW", "port_name": "NEWARK/TETERBORO, NJ"}
+{"port_code": "PER", "port_name": "PERTH AMBOY, NJ"}
+{"port_code": "ACY", "port_name": "POMONA FIELD - ATLANTIC CITY, NJ"}
+{"port_code": "ALA", "port_name": "ALAMAGORDO, NM (BPS)"}
+{"port_code": "ABQ", "port_name": "ALBUQUERQUE, NM"}
+{"port_code": "ANP", "port_name": "ANTELOPE WELLS, NM"}
+{"port_code": "CRL", "port_name": "CARLSBAD, NM"}
+{"port_code": "COL", "port_name": "COLUMBUS, NM"}
+{"port_code": "CDD", "port_name": "CRANE LAKE - ST. LOUIS CNTY, NM"}
+{"port_code": "DNM", "port_name": "DEMING, NM (BPS)"}
+{"port_code": "LAS", "port_name": "LAS CRUCES, NM"}
+{"port_code": "LOB", "port_name": "LORDSBURG, NM (BPS)"}
+{"port_code": "RUI", "port_name": "RUIDOSO, NM"}
+{"port_code": "STR", "port_name": "SANTA TERESA, NM"}
+{"port_code": "RNO", "port_name": "CANNON INTL - RENO/TAHOE, NV"}
+{"port_code": "FLX", "port_name": "FALLON MUNICIPAL AIRPORT, NV"}
+{"port_code": "LVG", "port_name": "LAS VEGAS, NV"}
+{"port_code": "REN", "port_name": "RENO, NV"}
+{"port_code": "ALB", "port_name": "ALBANY, NY"}
+{"port_code": "AXB", "port_name": "ALEXANDRIA BAY, NY"}
+{"port_code": "BUF", "port_name": "BUFFALO, NY"}
+{"port_code": "CNH", "port_name": "CANNON CORNERS, NY"}
+{"port_code": "CAP", "port_name": "CAPE VINCENT, NY"}
+{"port_code": "CHM", "port_name": "CHAMPLAIN, NY"}
+{"port_code": "CHT", "port_name": "CHATEAUGAY, NY"}
+{"port_code": "CLA", "port_name": "CLAYTON, NY"}
+{"port_code": "FTC", "port_name": "FORT COVINGTON, NY"}
+{"port_code": "LAG", "port_name": "LA GUARDIA, NY"}
+{"port_code": "LEW", "port_name": "LEWISTON, NY"}
+{"port_code": "MAS", "port_name": "MASSENA, NY"}
+{"port_code": "MAG", "port_name": "MCGUIRE AFB, NY"}
+{"port_code": "MOO", "port_name": "MOORES, NY"}
+{"port_code": "MRR", "port_name": "MORRISTOWN, NY"}
+{"port_code": "NYC", "port_name": "NEW YORK, NY"}
+{"port_code": "NIA", "port_name": "NIAGARA FALLS, NY"}
+{"port_code": "OGD", "port_name": "OGDENSBURG, NY"}
+{"port_code": "OSW", "port_name": "OSWEGO, NY"}
+{"port_code": "ELM", "port_name": "REGIONAL ARPT - HORSEHEAD, NY"}
+{"port_code": "ROC", "port_name": "ROCHESTER, NY"}
+{"port_code": "ROU", "port_name": "ROUSES POINT, NY"}
+{"port_code": "SWF", "port_name": "STEWART - ORANGE CNTY, NY"}
+{"port_code": "SYR", "port_name": "SYRACUSE, NY"}
+{"port_code": "THO", "port_name": "THOUSAND ISLAND BRIDGE, NY"}
+{"port_code": "TRO", "port_name": "TROUT RIVER, NY"}
+{"port_code": "WAT", "port_name": "WATERTOWN, NY"}
+{"port_code": "HPN", "port_name": "WESTCHESTER - WHITE PLAINS, NY"}
+{"port_code": "WRB", "port_name": "WHIRLPOOL BRIDGE, NY"}
+{"port_code": "YOU", "port_name": "YOUNGSTOWN, NY"}
+{"port_code": "AKR", "port_name": "AKRON, OH"}
+{"port_code": "ATB", "port_name": "ASHTABULA, OH"}
+{"port_code": "CIN", "port_name": "CINCINNATI, OH"}
+{"port_code": "CLE", "port_name": "CLEVELAND, OH"}
+{"port_code": "CLM", "port_name": "COLUMBUS, OH"}
+{"port_code": "LOR", "port_name": "LORAIN, OH"}
+{"port_code": "MBO", "port_name": "MARBLE HEADS, OH"}
+{"port_code": "SDY", "port_name": "SANDUSKY, OH"}
+{"port_code": "TOL", "port_name": "TOLEDO, OH"}
+{"port_code": "OKC", "port_name": "OKLAHOMA CITY, OK"}
+{"port_code": "TUL", "port_name": "TULSA, OK"}
+{"port_code": "AST", "port_name": "ASTORIA, OR"}
+{"port_code": "COO", "port_name": "COOS BAY, OR"}
+{"port_code": "HIO", "port_name": "HILLSBORO, OR"}
+{"port_code": "MED", "port_name": "MEDFORD, OR"}
+{"port_code": "NPT", "port_name": "NEWPORT, OR"}
+{"port_code": "POO", "port_name": "PORTLAND, OR"}
+{"port_code": "PUT", "port_name": "PUT-IN-BAY, OH"}
+{"port_code": "RDM", "port_name": "ROBERTS FIELDS - REDMOND, OR"}
+{"port_code": "ERI", "port_name": "ERIE, PA"}
+{"port_code": "MDT", "port_name": "HARRISBURG, PA"}
+{"port_code": "HSB", "port_name": "HARRISONBURG, PA"}
+{"port_code": "PHI", "port_name": "PHILADELPHIA, PA"}
+{"port_code": "PIT", "port_name": "PITTSBURG, PA"}
+{"port_code": "AGU", "port_name": "AGUADILLA, PR"}
+{"port_code": "BQN", "port_name": "BORINQUEN - AGUADILLO, PR"}
+{"port_code": "JCP", "port_name": "CULEBRA - BENJAMIN RIVERA, PR"}
+{"port_code": "ENS", "port_name": "ENSENADA, PR"}
+{"port_code": "FAJ", "port_name": "FAJARDO, PR"}
+{"port_code": "HUM", "port_name": "HUMACAO, PR"}
+{"port_code": "JOB", "port_name": "JOBOS, PR"}
+{"port_code": "MAY", "port_name": "MAYAGUEZ, PR"}
+{"port_code": "PON", "port_name": "PONCE, PR"}
+{"port_code": "PSE", "port_name": "PONCE-MERCEDITA, PR"}
+{"port_code": "SAJ", "port_name": "SAN JUAN, PR"}
+{"port_code": "VQS", "port_name": "VIEQUES-ARPT, PR"}
+{"port_code": "PRO", "port_name": "PROVIDENCE, RI"}
+{"port_code": "PVD", "port_name": "THEODORE FRANCIS - WARWICK, RI"}
+{"port_code": "CHL", "port_name": "CHARLESTON, SC"}
+{"port_code": "CAE", "port_name": "COLUMBIA, SC #ARPT"}
+{"port_code": "GEO", "port_name": "GEORGETOWN, SC"}
+{"port_code": "GSP", "port_name": "GREENVILLE, SC"}
+{"port_code": "GRR", "port_name": "GREER, SC"}
+{"port_code": "MYR", "port_name": "MYRTLE BEACH, SC"}
+{"port_code": "SPF", "port_name": "BLACK HILLS, SPEARFISH, SD"}
+{"port_code": "HON", "port_name": "HOWES REGIONAL ARPT - HURON, SD"}
+{"port_code": "SAI", "port_name": "SAIPAN, SPN"}
+{"port_code": "TYS", "port_name": "MC GHEE TYSON - ALCOA, TN"}
+{"port_code": "MEM", "port_name": "MEMPHIS, TN"}
+{"port_code": "NSV", "port_name": "NASHVILLE, TN"}
+{"port_code": "TRI", "port_name": "TRI CITY ARPT, TN"}
+{"port_code": "ADS", "port_name": "ADDISON AIRPORT- ADDISON, TX"}
+{"port_code": "ADT", "port_name": "AMISTAD DAM, TX"}
+{"port_code": "ANZ", "port_name": "ANZALDUAS, TX"}
+{"port_code": "AUS", "port_name": "AUSTIN, TX"}
+{"port_code": "BEA", "port_name": "BEAUMONT, TX"}
+{"port_code": "BBP", "port_name": "BIG BEND PARK, TX (BPS)"}
+{"port_code": "SCC", "port_name": "BP SPEC COORD. CTR, TX"}
+{"port_code": "BTC", "port_name": "BP TACTICAL UNIT, TX"}
+{"port_code": "BOA", "port_name": "BRIDGE OF AMERICAS, TX"}
+{"port_code": "BRO", "port_name": "BROWNSVILLE, TX"}
+{"port_code": "CRP", "port_name": "CORPUS CHRISTI, TX"}
+{"port_code": "DAL", "port_name": "DALLAS, TX"}
+{"port_code": "DLR", "port_name": "DEL RIO, TX"}
+{"port_code": "DNA", "port_name": "DONNA, TX"}
+{"port_code": "EGP", "port_name": "EAGLE PASS, TX"}
+{"port_code": "ELP", "port_name": "EL PASO, TX"}
+{"port_code": "FAB", "port_name": "FABENS, TX"}
+{"port_code": "FAL", "port_name": "FALCON HEIGHTS, TX"}
+{"port_code": "FTH", "port_name": "FORT HANCOCK, TX"}
+{"port_code": "AFW", "port_name": "FORT WORTH ALLIANCE, TX"}
+{"port_code": "FPT", "port_name": "FREEPORT, TX"}
+{"port_code": "GAL", "port_name": "GALVESTON, TX"}
+{"port_code": "HLG", "port_name": "HARLINGEN, TX"}
+{"port_code": "HID", "port_name": "HIDALGO, TX"}
+{"port_code": "HOU", "port_name": "HOUSTON, TX"}
+{"port_code": "SGR", "port_name": "HULL FIELD, SUGAR LAND ARPT, TX"}
+{"port_code": "LLB", "port_name": "JUAREZ-LINCOLN BRIDGE, TX"}
+{"port_code": "LCB", "port_name": "LAREDO COLUMBIA BRIDGE, TX"}
+{"port_code": "LRN", "port_name": "LAREDO NORTH, TX"}
+{"port_code": "LAR", "port_name": "LAREDO, TX"}
+{"port_code": "LSE", "port_name": "LOS EBANOS, TX"}
+{"port_code": "IND", "port_name": "LOS INDIOS, TX"}
+{"port_code": "LOI", "port_name": "LOS INDIOS, TX"}
+{"port_code": "MRS", "port_name": "MARFA, TX (BPS)"}
+{"port_code": "MCA", "port_name": "MCALLEN, TX"}
+{"port_code": "MAF", "port_name": "ODESSA REGIONAL, TX"}
+{"port_code": "PDN", "port_name": "PASO DEL NORTE,TX"}
+{"port_code": "PBB", "port_name": "PEACE BRIDGE, NY"}
+{"port_code": "PHR", "port_name": "PHARR, TX"}
+{"port_code": "PAR", "port_name": "PORT ARTHUR, TX"}
+{"port_code": "ISB", "port_name": "PORT ISABEL, TX"}
+{"port_code": "POE", "port_name": "PORT OF EL PASO, TX"}
+{"port_code": "PRE", "port_name": "PRESIDIO, TX"}
+{"port_code": "PGR", "port_name": "PROGRESO, TX"}
+{"port_code": "RIO", "port_name": "RIO GRANDE CITY, TX"}
+{"port_code": "ROM", "port_name": "ROMA, TX"}
+{"port_code": "SNA", "port_name": "SAN ANTONIO, TX"}
+{"port_code": "SNN", "port_name": "SANDERSON, TX"}
+{"port_code": "VIB", "port_name": "VETERAN INTL BRIDGE, TX"}
+{"port_code": "YSL", "port_name": "YSLETA, TX"}
+{"port_code": "CHA", "port_name": "CHARLOTTE AMALIE, VI"}
+{"port_code": "CHR", "port_name": "CHRISTIANSTED, VI"}
+{"port_code": "CRU", "port_name": "CRUZ BAY, ST JOHN, VI"}
+{"port_code": "FRK", "port_name": "FREDERIKSTED, VI"}
+{"port_code": "STT", "port_name": "ST THOMAS, VI"}
+{"port_code": "LGU", "port_name": "CACHE AIRPORT - LOGAN, UT"}
+{"port_code": "SLC", "port_name": "SALT LAKE CITY, UT"}
+{"port_code": "CHO", "port_name": "ALBEMARLE CHARLOTTESVILLE, VA"}
+{"port_code": "DAA", "port_name": "DAVISON AAF - FAIRFAX CNTY, VA"}
+{"port_code": "HOP", "port_name": "HOPEWELL, VA"}
+{"port_code": "HEF", "port_name": "MANASSAS, VA #ARPT"}
+{"port_code": "NWN", "port_name": "NEWPORT, VA"}
+{"port_code": "NOR", "port_name": "NORFOLK, VA"}
+{"port_code": "RCM", "port_name": "RICHMOND, VA"}
+{"port_code": "ABS", "port_name": "ALBURG SPRINGS, VT"}
+{"port_code": "ABG", "port_name": "ALBURG, VT"}
+{"port_code": "BEB", "port_name": "BEEBE PLAIN, VT"}
+{"port_code": "BEE", "port_name": "BEECHER FALLS, VT"}
+{"port_code": "BRG", "port_name": "BURLINGTON, VT"}
+{"port_code": "CNA", "port_name": "CANAAN, VT"}
+{"port_code": "DER", "port_name": "DERBY LINE, VT (I-91)"}
+{"port_code": "DLV", "port_name": "DERBY LINE, VT (RT. 5)"}
+{"port_code": "ERC", "port_name": "EAST RICHFORD, VT"}
+{"port_code": "HIG", "port_name": "HIGHGATE SPRINGS, VT"}
+{"port_code": "MOR", "port_name": "MORSES LINE, VT"}
+{"port_code": "NPV", "port_name": "NEWPORT, VT"}
+{"port_code": "NRT", "port_name": "NORTH TROY, VT"}
+{"port_code": "NRN", "port_name": "NORTON, VT"}
+{"port_code": "PIV", "port_name": "PINNACLE ROAD, VT"}
+{"port_code": "RIF", "port_name": "RICHFORT, VT"}
+{"port_code": "STA", "port_name": "ST ALBANS, VT"}
+{"port_code": "SWB", "port_name": "SWANTON, VT (BP - SECTOR HQ)"}
+{"port_code": "WBE", "port_name": "WEST BERKSHIRE, VT"}
+{"port_code": "ABE", "port_name": "ABERDEEN, WA"}
+{"port_code": "ANA", "port_name": "ANACORTES, WA"}
+{"port_code": "BEL", "port_name": "BELLINGHAM, WA"}
+{"port_code": "BLI", "port_name": "BELLINGHAM, WASHINGTON #INTL"}
+{"port_code": "BLA", "port_name": "BLAINE, WA"}
+{"port_code": "BWA", "port_name": "BOUNDARY, WA"}
+{"port_code": "CUR", "port_name": "CURLEW, WA (BPS)"}
+{"port_code": "DVL", "port_name": "DANVILLE, WA"}
+{"port_code": "EVE", "port_name": "EVERETT, WA"}
+{"port_code": "FER", "port_name": "FERRY, WA"}
+{"port_code": "FRI", "port_name": "FRIDAY HARBOR, WA"}
+{"port_code": "FWA", "port_name": "FRONTIER, WA"}
+{"port_code": "KLM", "port_name": "KALAMA, WA"}
+{"port_code": "LAU", "port_name": "LAURIER, WA"}
+{"port_code": "LON", "port_name": "LONGVIEW, WA"}
+{"port_code": "MET", "port_name": "METALINE FALLS, WA"}
+{"port_code": "MWH", "port_name": "MOSES LAKE GRANT COUNTY ARPT, WA"}
+{"port_code": "NEA", "port_name": "NEAH BAY, WA"}
+{"port_code": "NIG", "port_name": "NIGHTHAWK, WA"}
+{"port_code": "OLY", "port_name": "OLYMPIA, WA"}
+{"port_code": "ORO", "port_name": "OROVILLE, WA"}
+{"port_code": "PWB", "port_name": "PASCO, WA"}
+{"port_code": "PIR", "port_name": "POINT ROBERTS, WA"}
+{"port_code": "PNG", "port_name": "PORT ANGELES, WA"}
+{"port_code": "PTO", "port_name": "PORT TOWNSEND, WA"}
+{"port_code": "SEA", "port_name": "SEATTLE, WA"}
+{"port_code": "SPO", "port_name": "SPOKANE, WA"}
+{"port_code": "SUM", "port_name": "SUMAS, WA"}
+{"port_code": "TAC", "port_name": "TACOMA, WA"}
+{"port_code": "PSC", "port_name": "TRI-CITIES - PASCO, WA"}
+{"port_code": "VAN", "port_name": "VANCOUVER, WA"}
+{"port_code": "AGM", "port_name": "ALGOMA, WI"}
+{"port_code": "BAY", "port_name": "BAYFIELD, WI"}
+{"port_code": "GRB", "port_name": "GREEN BAY, WI"}
+{"port_code": "MNW", "port_name": "MANITOWOC, WI"}
+{"port_code": "MIL", "port_name": "MILWAUKEE, WI"}
+{"port_code": "MSN", "port_name": "TRUAX FIELD - DANE COUNTY, WI"}
+{"port_code": "CHS", "port_name": "CHARLESTON, WV"}
+{"port_code": "CLK", "port_name": "CLARKSBURG, WV"}
+{"port_code": "BLF", "port_name": "MERCER COUNTY, WV"}
+{"port_code": "CSP", "port_name": "CASPER, WY"}
+{"port_code": "XXX", "port_name": "NOT REPORTED/UNKNOWN"}
+{"port_code": "888", "port_name": "UNIDENTIFED AIR / SEAPORT"}
+{"port_code": "UNK", "port_name": "UNKNOWN POE"}
+{"port_code": "CLG", "port_name": "CALGARY, CANADA"}
+{"port_code": "EDA", "port_name": "EDMONTON, CANADA"}
+{"port_code": "YHC", "port_name": "HAKAI PASS, CANADA"}
+{"port_code": "HAL", "port_name": "Halifax, NS, Canada"}
+{"port_code": "MON", "port_name": "MONTREAL, CANADA"}
+{"port_code": "OTT", "port_name": "OTTAWA, CANADA"}
+{"port_code": "YXE", "port_name": "SASKATOON, CANADA"}
+{"port_code": "TOR", "port_name": "TORONTO, CANADA"}
+{"port_code": "VCV", "port_name": "VANCOUVER, CANADA"}
+{"port_code": "VIC", "port_name": "VICTORIA, CANADA"}
+{"port_code": "WIN", "port_name": "WINNIPEG, CANADA"}
+{"port_code": "AMS", "port_name": "AMSTERDAM-SCHIPHOL, NETHERLANDS"}
+{"port_code": "ARB", "port_name": "ARUBA, NETH ANTILLES"}
+{"port_code": "BAN", "port_name": "BANKOK, THAILAND"}
+{"port_code": "BEI", "port_name": "BEICA #ARPT, ETHIOPIA"}
+{"port_code": "PEK", "port_name": "BEIJING CAPITAL INTL, PRC"}
+{"port_code": "BDA", "port_name": "KINDLEY FIELD, BERMUDA"}
+{"port_code": "BOG", "port_name": "BOGOTA, EL DORADO #ARPT, COLOMBIA"}
+{"port_code": "EZE", "port_name": "BUENOS AIRES, MINISTRO PIST, ARGENTINA"}
+{"port_code": "CUN", "port_name": "CANCUN, MEXICO"}
+{"port_code": "CRQ", "port_name": "CARAVELAS, BA #ARPT, BRAZIL"}
+{"port_code": "MVD", "port_name": "CARRASCO, URUGUAY"}
+{"port_code": "DUB", "port_name": "DUBLIN, IRELAND"}
+{"port_code": "FOU", "port_name": "FOUGAMOU #ARPT, GABON"}
+{"port_code": "FBA", "port_name": "FREEPORT, BAHAMAS"}
+{"port_code": "MTY", "port_name": "GEN M. ESCOBEDO, Monterrey, MX"}
+{"port_code": "HMO", "port_name": "GEN PESQUEIRA GARCIA, MX"}
+{"port_code": "GCM", "port_name": "GRAND CAYMAN, CAYMAN ISLAND"}
+{"port_code": "GDL", "port_name": "GUADALAJARA, MIGUEL HIDAL, MX"}
+{"port_code": "HAM", "port_name": "HAMILTON, BERMUDA"}
+{"port_code": "ICN", "port_name": "INCHON, SEOUL KOREA"}
+{"port_code": "IWA", "port_name": "INVALID - IWAKUNI, JAPAN"}
+{"port_code": "CND", "port_name": "KOGALNICEANU, ROMANIA"}
+{"port_code": "LAH", "port_name": "LABUHA ARPT, INDONESIA"}
+{"port_code": "DUR", "port_name": "LOUIS BOTHA, SOUTH AFRICA"}
+{"port_code": "MAL", "port_name": "MANGOLE ARPT, INDONESIA"}
+{"port_code": "MDE", "port_name": "MEDELLIN, COLOMBIA"}
+{"port_code": "MEX", "port_name": "JUAREZ INTL, MEXICO CITY, MX"}
+{"port_code": "LHR", "port_name": "MIDDLESEX, ENGLAND"}
+{"port_code": "NBO", "port_name": "NAIROBI, KENYA"}
+{"port_code": "NAS", "port_name": "NASSAU, BAHAMAS"}
+{"port_code": "NCA", "port_name": "NORTH CAICOS, TURK & CAIMAN"}
+{"port_code": "PTY", "port_name": "OMAR TORRIJOS, PANAMA"}
+{"port_code": "SPV", "port_name": "PAPUA, NEW GUINEA"}
+{"port_code": "UIO", "port_name": "QUITO (MARISCAL SUCR), ECUADOR"}
+{"port_code": "RIT", "port_name": "ROME, ITALY"}
+{"port_code": "SNO", "port_name": "SAKON NAKHON #ARPT, THAILAND"}
+{"port_code": "SLP", "port_name": "SAN LUIS POTOSI #ARPT, MEXICO"}
+{"port_code": "SAN", "port_name": "SAN SALVADOR, EL SALVADOR"}
+{"port_code": "SRO", "port_name": "SANTANA RAMOS #ARPT, COLOMBIA"}
+{"port_code": "GRU", "port_name": "GUARULHOS INTL, SAO PAULO, BRAZIL"}
+{"port_code": "SHA", "port_name": "SHANNON, IRELAND"}
+{"port_code": "HIL", "port_name": "SHILLAVO, ETHIOPIA"}
+{"port_code": "TOK", "port_name": "TOROKINA #ARPT, PAPUA, NEW GUINEA"}
+{"port_code": "VER", "port_name": "VERACRUZ, MEXICO"}
+{"port_code": "LGW", "port_name": "WEST SUSSEX, ENGLAND"}
+{"port_code": "ZZZ", "port_name": "MEXICO Land (Banco de Mexico)"}
+{"port_code": "CHN", "port_name": "No PORT Code (CHN)"}
+{"port_code": "CNC", "port_name": "CANNON CORNERS, NY"}
+{"port_code": "MAA", "port_name": "Abu Dhabi"}
+{"port_code": "AG0", "port_name": "MAGNOLIA, AR"}
+{"port_code": "BHM", "port_name": "BAR HARBOR, ME"}
+{"port_code": "BHX", "port_name": "BIRMINGHAM, AL"}
+{"port_code": "CAK", "port_name": "AKRON, OH"}
+{"port_code": "FOK", "port_name": "SUFFOLK COUNTY, NY"}
+{"port_code": "LND", "port_name": "LANDER, WY"}
+{"port_code": "MAR", "port_name": "MARFA, TX"}
+{"port_code": "MLI", "port_name": "MOLINE, IL"}
+{"port_code": "RIV", "port_name": "RIVERSIDE, CA"}
+{"port_code": "RME", "port_name": "ROME, NY"}
+{"port_code": "VNY", "port_name": "VAN NUYS, CA"}
+{"port_code": "YUM", "port_name": "YUMA, AZ"}
+{"port_code": "FRG", "port_name": "Collapsed (FOK) 06/15"}
+{"port_code": "HRL", "port_name": "Collapsed (HLG) 06/15"}
+{"port_code": "ISP", "port_name": "Collapsed (FOK) 06/15"}
+{"port_code": "JSJ", "port_name": "Collapsed (SAJ) 06/15"}
+{"port_code": "BUS", "port_name": "Collapsed (BUF) 06/15"}
+{"port_code": "IAG", "port_name": "Collapsed (NIA) 06/15"}
+{"port_code": "PHN", "port_name": "Collapsed (PHU) 06/15"}
+{"port_code": "STN", "port_name": "Collapsed (STR) 06/15"}
+{"port_code": "VMB", "port_name": "Collapsed (VNB) 06/15"}
+{"port_code": "T01", "port_name": "Collapsed (SEA) 06/15"}
+{"port_code": "PHF", "port_name": "No PORT Code (PHF)"}
+{"port_code": "DRV", "port_name": "No PORT Code (DRV)"}
+{"port_code": "FTB", "port_name": "No PORT Code (FTB)"}
+{"port_code": "GAC", "port_name": "No PORT Code (GAC)"}
+{"port_code": "GMT", "port_name": "No PORT Code (GMT)"}
+{"port_code": "JFA", "port_name": "No PORT Code (JFA)"}
+{"port_code": "JMZ", "port_name": "No PORT Code (JMZ)"}
+{"port_code": "NC8", "port_name": "No PORT Code (NC8)"}
+{"port_code": "NYL", "port_name": "No PORT Code (NYL)"}
+{"port_code": "OAI", "port_name": "No PORT Code (OAI)"}
+{"port_code": "PCW", "port_name": "No PORT Code (PCW)"}
+{"port_code": "WA5", "port_name": "No PORT Code (WAS)"}
+{"port_code": "WTR", "port_name": "No PORT Code (WTR)"}
+{"port_code": "X96", "port_name": "No PORT Code (X96)"}
+{"port_code": "XNA", "port_name": "No PORT Code (XNA)"}
+{"port_code": "YGF", "port_name": "No PORT Code (YGF)"}
+{"port_code": "5T6", "port_name": "No PORT Code (5T6)"}
+{"port_code": "060", "port_name": "No PORT Code (60)"}
+{"port_code": "SP0", "port_name": "No PORT Code (SP0)"}
+{"port_code": "W55", "port_name": "No PORT Code (W55)"}
+{"port_code": "X44", "port_name": "No PORT Code (X44)"}
+{"port_code": "AUH", "port_name": "No PORT Code (AUH)"}
+{"port_code": "RYY", "port_name": "No PORT Code (RYY)"}
+{"port_code": "SUS", "port_name": "No PORT Code (SUS)"}
+{"port_code": "74S", "port_name": "No PORT Code (74S)"}
+{"port_code": "ATW", "port_name": "No PORT Code (ATW)"}
+{"port_code": "CPX", "port_name": "No PORT Code (CPX)"}
+{"port_code": "MTH", "port_name": "No PORT Code (MTH)"}
+{"port_code": "PFN", "port_name": "No PORT Code (PFN)"}
+{"port_code": "SCH", "port_name": "No PORT Code (SCH)"}
+{"port_code": "ASI", "port_name": "No PORT Code (ASI)"}
+{"port_code": "BKF", "port_name": "No PORT Code (BKF)"}
+{"port_code": "DAY", "port_name": "No PORT Code (DAY)"}
+{"port_code": "Y62", "port_name": "No PORT Code (Y62)"}
+{"port_code": "AG", "port_name": "No PORT Code (AG)"}
+{"port_code": "BCM", "port_name": "No PORT Code (BCM)"}
+{"port_code": "DEC", "port_name": "No PORT Code (DEC)"}
+{"port_code": "PLB", "port_name": "No PORT Code (PLB)"}
+{"port_code": "CXO", "port_name": "No PORT Code (CXO)"}
+{"port_code": "JBQ", "port_name": "No PORT Code (JBQ)"}
+{"port_code": "JIG", "port_name": "No PORT Code (JIG)"}
+{"port_code": "OGS", "port_name": "No PORT Code (OGS)"}
+{"port_code": "TIW", "port_name": "No PORT Code (TIW)"}
+{"port_code": "OTS", "port_name": "No PORT Code (OTS)"}
+{"port_code": "AMT", "port_name": "No PORT Code (AMT)"}
+{"port_code": "EGE", "port_name": "No PORT Code (EGE)"}
+{"port_code": "GPI", "port_name": "No PORT Code (GPI)"}
+{"port_code": "NGL", "port_name": "No PORT Code (NGL)"}
+{"port_code": "OLM", "port_name": "No PORT Code (OLM)"}
+{"port_code": ".GA", "port_name": "No PORT Code (.GA)"}
+{"port_code": "CLX", "port_name": "No PORT Code (CLX)"}
+{"port_code": "CP ", "port_name": "No PORT Code (CP)"}
+{"port_code": "FSC", "port_name": "No PORT Code (FSC)"}
+{"port_code": "NK", "port_name": "No PORT Code (NK)"}
+{"port_code": "ADU", "port_name": "No PORT Code (ADU)"}
+{"port_code": "AKT", "port_name": "No PORT Code (AKT)"}
+{"port_code": "LIT", "port_name": "No PORT Code (LIT)"}
+{"port_code": "A2A", "port_name": "No PORT Code (A2A)"}
+{"port_code": "OSN", "port_name": "No PORT Code (OSN)"}
